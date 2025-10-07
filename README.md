@@ -1,8 +1,8 @@
 # Hospital-Management-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212222060295
+# Name: Vikhram S
+# Date: 02/10/2025
 
 
 # AIM:
@@ -41,6 +41,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
+![WhatsApp Image 2025-10-01 at 11 18 24_33ef824a](https://github.com/user-attachments/assets/4d97e567-f1ee-4309-83e0-faa5e7857506)
 
 
 
@@ -60,6 +61,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+![WhatsApp Image 2025-10-01 at 20 36 46_2becc20f](https://github.com/user-attachments/assets/90cf9f06-717b-4cf9-a2ec-49091fc995b7)
 
 
 # COMMUNICTION DIAGRAM:
@@ -68,7 +70,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
-
+![WhatsApp Image 2025-10-01 at 21 03 18_86e1226b](https://github.com/user-attachments/assets/5ae53d95-df64-40d4-ab77-d3cf6e3eb135)
 
 
 # PACKAGE DIAGRAM:
@@ -80,8 +82,7 @@ organization of the layered architecture within any UML classifier, such as a so
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
 
-
-
+![WhatsApp Image 2025-10-01 at 21 43 31_132ad4d8](https://github.com/user-attachments/assets/cdbf422c-64da-4da1-aca1-a6890d7b8f49)
 
 
 
@@ -98,8 +99,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
-
-
+![WhatsApp Image 2025-10-02 at 11 10 30_62a397d5](https://github.com/user-attachments/assets/6730b00b-466e-4734-b832-20382d071e68)
 
 
 # SEQUENCE DIAGRAM
@@ -121,6 +121,7 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
+![WhatsApp Image 2025-10-02 at 16 36 11_15d9ffdb](https://github.com/user-attachments/assets/f8611ec3-d19e-442d-9c79-9a6e70fc8524)
 
 
 
